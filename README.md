@@ -8,7 +8,7 @@ I'm a dedicated IT professional and educator with a passion for bridging the gap
 - **[Youtube Channel](https://www.youtube.com/channel/UCjUIg-ySjT4cO7PgNvnSk8w)**: Insights and learnings from my journey in IT and education.
 
 ### Explore My Blog
-- **[Wizardteco Tech Blogs](https://wizardteco-tech-blogs.blogspot.com/)**: Insights and learnings on the latest in technology, education, and beyond.
+- **[Tech](https://wizardteco-tech-blogs.blogspot.com/)**: Insights and learnings on the latest in technology, education, and beyond.
 
 
 ### 📦 Toolbox
